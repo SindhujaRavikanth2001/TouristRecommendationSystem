@@ -1,0 +1,2 @@
+userid,dance_clubs,restaurants,museums,resorts,theaters,religious_institutions
+213,1,0,1,3,2,2

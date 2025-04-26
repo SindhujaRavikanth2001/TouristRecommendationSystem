@@ -1,0 +1,51 @@
+userid,dance_clubs,restaurants,museums,resorts,theaters,religious_institutions,location
+1,5,1,2,1,4,0,Jubliee hills_Insomnia-TOT-Amnesia-By the Bottle-Club Rogue-Carpedium-Jubliee hills_PVR
+2,1,5,1,0,0,0,Himayatnagar_Bluefox-MinervaCoffeeHouse-Mehfil-Cafe Bahar
+3,1,2,5,2,1,1,OldCity_SalarJungMusuem
+4,1,1,1,5,1,1,Shamirpet_Alankritha-Leoniaresort-BackYardThota
+5,0,0,0,0,0,0,No_Location_Found
+6,1,2,3,4,5,5,OldCity_SalarJungmuseum-Banjara hills_Dream valley resorts-Saqlain resorts-Pragati resorts-Pride resorts-Punjagutta-PVRCinemas_Hayathnagar-SanghiTemple
+7,4,4,0,0,1,2,JublieeHills_Insomnia-Carpedium-Amnesia-PoshNosh-Himayathnagar_MinervaCoffeeHouse-BlueFox-Mehfil
+8,0,0,0,5,3,4,Shameerpet_Alankritha-Leoniaresort-BackYardThota-BanjaraHills_INOX GVK ONE-JublieeHills_Peddamma temple
+9,0,4,5,0,0,0,Himayathanagar_Bluefox-MinervaCoffeeHouse-OldCity_SalarJungMuseum
+10,1,1,1,1,1,1,JublieeHills_Insomnia-JublieeHills_A'La Liberty-OldCity_SalarjungMuseum-Shameerpet_Alankritha-Punjagutta_PVR-Hyathanagar_SanghiTemple
+11,1,2,3,4,5,5,OldCity_SalarJungmuseum-Manneguda_CasaDel-Kairatabad_Prasads IMAX-Kairatabad_Birla Mandir
+12,5,5,1,4,2,0,HitechCity_Block 22-HitechCity_Rotis-Chilkamarri_BackYardThota
+13,4,3,5,4,0,1,Jubliee hills_By the bottle-Insomnia-PoshNosh-Amnesia-TikkyShak-Jubliee hills_Krishnapatanam-One driveIn-OldCity_SalarJungmuseum-Manneguda_CasaDel
+14,3,3,3,3,3,3,Jubliee hills_Insomnia-PoshNosh-Amnesia-TikkyShak-BLVD-Jubliee hills_Krishnapatanam-OldCity_SalarJungmuseum-Manneguda_CasaDel--Hayathnagar_SanghiTemple
+15,5,5,5,5,5,5,Jubliee hills_Amnesia-PoshNosh-BLVD-Insomnia-TikkyShak-Jubliee hills_Krishnapatanam-OldCity_SalarJungmuseum-Chakaliguda_BrwonTown Resorts-Jubliee hills_PVR RK-Kairatabad_Birla Mandir
+16,5,3,1,0,4,4,Jubliee hills_BLVD-Jubliee hills_Kritunga-Jubliee hills_PVR RK-Jubliee hills_Sri Peddamma Thalli Temple
+17,3,2,4,2,5,1,Madhapur_Bird Box-Sounds & Spirits-Pathar Gatti_The Nizam's Museum-Narayanaguda_INOX
+18,4,5,0,1,2,3,Madhapur_Bird Box-Sounds & Spirits-Banjara hills_Jewel of Nizam-Humming Bird-Banjara hills_Sri Jagannath Temple
+19,5,0,1,2,3,4,Jubliee hills_TOT Night club-Amnesia-Insomnia-PoshNosh-Kairatabad_Prasads IMAX-Kairatabad_Birla Mandir
+20,2,3,4,5,0,1,Himayath nagar_Cafe Bahar-Mehfil-Bluefox-MinervaCoffeeHouse-Orris Guffa-OldCity_SalarJungmuseum-Manneguda_CasaDel
+21,3,4,5,0,1,2,Jubliee hills_Amnesia-TikkyShak-PoshNosh-Insomnia-Absorb-Jubliee hills_Krishnapatanam-Kritunga-One DriveIn-OldCity_SalarJungmuseum
+22,2,2,3,3,1,4,OldCity_SalarJungmuseum-Chakaliguda_BrownTown Resorts-Jubliee hills_Sri Peddamma Thalli Temple
+23,4,4,1,3,2,2,LBnagar_MoonBean-LBnagar_Abhiruchi-Kritunga-BlueFox-Gandipet_Golkonda resorts
+24,1,1,1,5,4,2,Gandipet_Golkonda resorts-Narayanaguda_INOX-Sandhya Theaters-Shanti Theaters-Sudharshan
+25,0,2,4,0,1,3,Pathar Gatti_The Nizam's Museum-Banjara hills_Sri Jagannath Temple
+26,2,2,1,4,3,5,Manneguda_CasaDel-Kairatabad_Prasads IMAX-Kairatabad_Birla Mandir
+27,2,3,1,0,0,0,Banjara hills_Jewel of Nizam
+28,4,4,4,5,2,1,Jubliee hills_Insomnia-PoshNosh-TikkyShak-Amnesia-BLVD-By the bottle-Jubliee hills_Krishnapatanam-One DriveIn-Kritunga-OldCity_SalarJungmuseum-Manneguda_CasaDel
+29,3,5,1,2,0,0,Jubliee hills_BLVD-Himayath nagar_Cafe Bahar-Mehfil
+30,0,0,3,0,1,5,OldCity_SalarJungmuseum-Banjara hills_Sri Jagannath Temple
+31,2,5,3,4,0,1,jubliee hills_Hoppery Cafe-Tranquil-Olive bistro-Kritunga-Krishnapatanam-OldCity_SalarJungmuseum-Gandipet_Golkonda resorts
+32,3,4,3,3,5,0,Jubliee hills_Amnesia-PoshNosh-Amnesia-TikkyShak-Jubliee hills_Krishnapatanam-OldCity_SalarJungmuseum-Chakaliguda_BrwonTown Resorts-Jubliee hills_PVR RK
+33,2,5,1,1,4,4,Jubliee hills_Krishnapatanam-Kritunga-One DriveIn-The Spicy Venue-Beluga-Telangana Spicy kitchen-Narayanaguda_INOX-Sandhya Theaters-Shanti Theaters-Sudharshan-Banjara hills_Sri Jagannath Temple
+34,2,3,1,5,4,0,Jubliee hills_Krishnapatanam-Kritunga-One DriveIn-The Spicy Venue-Beluga-Telangana Spicy kitchen-Banjara hills_Dream valley resorts-Saqlain resorts-Pragati resorts-Pride resorts-Secunderabad_Anjali-Prashanth 
+35,0,1,0,3,5,0,Banjara hills_Dream valley resorts-Saqlain resorts-Pragati resorts-Pride resorts-Secunderabad_Anjali-Prashanth 
+36,2,5,3,1,0,0,Jubliee hills_Krishnapatanam-Kritunga-One DriveIn-The Spicy Venue-Beluga-Telangana Spicy kitchen-Glass Onion-OldCity_SalarJungmuseum
+37,5,4,1,0,2,5,Jubliee hills_Amnesia-PoshNosh-BLVD-Insomnia-TikkyShak-Zero 40-Tabula Rasa-Club Rogue-Jubliee hills_Krishnapatanam-Kritunga-One DriveIn-The Spicy Venue-Beluga-Telangana Spicy kitchen-Glass Onion-Jubliee hills_Sri Peddamma Thalli Temple
+38,1,0,0,4,0,5,Banjara hills_Dream valley resorts-Saqlain resorts-Pragati resorts-Pride resorts-Banjara hills_Sri Jagannath Temple
+39,4,2,0,2,2,5,Jubliee hills_Amnesia-PoshNosh-BLVD-Insomnia-TikkyShak-Zero 40-Tabula Rasa-Club Rogue-Banjara hills_Sri Jagannath Temple
+40,3,4,2,1,0,0,Jubliee hills_Amnesia-PoshNosh-BLVD-Insomnia-TikkyShak-Zero 40-Tabula Rasa-Club Rogue-By the Bottle-Jubliee hills_Krishnapatanam-Kritunga-One DriveIn-The Spicy Venue-Beluga-Telangana Spicy kitchen-Glass Onion
+41,4,1,3,1,5,0,Jubliee hills_Amnesia-PoshNosh-BLVD-Insomnia-TikkyShak-Zero 40-Tabula Rasa-Club Rogue-By the Bottle-Pathar Gatti_The Nizam's Museum-Narayanaguda_INOX-Sandhya Theaters-Shanti Theaters-Sudharshan
+42,0,0,0,0,4,0,Narayanaguda_INOX-Sandhya Theaters-Shanti Theaters-Sudharshan-Devi-Sapthagiri
+43,3,5,2,4,1,1,Jubliee hills_Amnesia-PoshNosh-BLVD-Insomnia-TikkyShak-Zero 40-Tabula Rasa-Club Rogue-By the Bottle-Prost-Fat Pegion-Frat-Forgue-Jubliee hills_Krishnapatanam-Kritunga-One DriveIn-The Spicy Venue-Beluga-Telangana Spicy kitchen-Manneguda_CasaDel-Annanya resorts-Deccan Trails resorts-MAK club
+44,4,5,3,0,0,0,Jubliee hills_TOT Night club-Amnesia-Insomnia-PoshNosh-Jubliee hills_Krishnapatanam-Kritunga-One DriveIn-The Spicy Venue-Beluga-Telangana Spicy kitchen-OldCity_SalarJungmuseum
+45,0,5,0,4,2,5,Jubliee hills_Krishnapatanam-Kritunga-One DriveIn-The Spicy Venue-Beluga-Telangana Spicy kitchen-Banjara hills_Dream valley resorts-Saqlain resorts-Pragati resorts-Pride resorts-Banjara hills_Sri Jagannath Temple
+46,1,1,0,5,3,2,Banjara hills_Dream valley resorts-Saqlain resorts-Pragati resorts-Pride resorts-Golkonda Resorts-CasaDel-Annanya resorts-Deccan Trails resorts-MAK club-BanjaraHills_INOX GVK ONE
+47,3,2,5,4,0,4,Jubliee hills_Amnesia-TikkyShak-PoshNosh-Insomnia-Absorb-OldCity_SalarJungmuseum-Banjara hills_Dream valley resorts-Saqlain resorts-Pragati resorts-Pride resorts-Golkonda Resorts-CasaDel-Annanya resorts-Deccan Trails resorts-MAK club-Kairatabad_Birla Mandir
+48,4,3,5,5,0,0,Jubliee hills_Amnesia-TikkyShak-PoshNosh-Insomnia-Absorb-BLVD-Jubliee hills_Krishnapatanam-Kritunga-One DriveIn-The Spicy Venue-Beluga-Telangana Spicy kitchen-OldCity_SalarJungmuseum-Banjara hills_Dream valley resorts-Saqlain resorts-Pragati resorts-Pride resorts-Golkonda Resorts-CasaDel-Annanya resorts-Deccan Trails resorts-MAK club
+49,1,0,0,0,0,0,JublieeHills_Insomnia-Carpedium-Amnesia-PoshNosh-Bird Box-Sounds & Spirits-BLVD-TikkyShak-Zero 40-Tabula Rasa-Club Rogue-By the Bottle
+50,4,5,2,0,0,1,JublieeHills_Insomnia-Carpedium-Amnesia-PoshNosh-Bird Box-Sounds & Spirits-BLVD-TikkyShak-Zero 40-Tabula Rasa-Club Rogue-By the Bottle-Jubliee hills_Krishnapatanam-Kritunga-One DriveIn-The Spicy Venue-Beluga-Telangana Spicy kitchen
