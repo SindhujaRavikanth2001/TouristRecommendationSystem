@@ -1,4 +1,4 @@
-# 🌍 Travel Yari – Personalized Travel Recommendation Web App
+# 🌍 Tourist Recommendation System
 
 A Flask-based web application that helps users discover popular places and recommends a travel destination based on their interests. Users can browse static pages showcasing visiting spots and a gallery, rate their preferences on categories like clubs, museums, and restaurants, and receive a tailored recommendation via a Decision Tree classifier.
 
